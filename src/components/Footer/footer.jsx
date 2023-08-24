@@ -122,12 +122,12 @@ const Footer = ({ hideBGCOLOR }) => {
               </div>
               <div className="copy-right">
                 <p>
-                  © 2022, Vie Template. Made with passion by
+               © 2023 - All right reserved by
                   <Link
-                    href="https://themeforest.net/user/themescamp/portfolio"
+                    href="/"
                     
                   >
-                    <a target="_blank">ThemesCamp</a>
+                    <a target="_blank">JeansBest</a>
                   </Link>
                   .
                 </p>

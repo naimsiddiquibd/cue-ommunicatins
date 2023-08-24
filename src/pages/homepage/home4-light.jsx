@@ -11,6 +11,7 @@ import Portfolio from "../../components/Portfolio/portfolio";
 import Clients2 from "../../components/Clients2/clients2";
 import Blogs4 from "../../components/blogs/Blogs4/blogs4";
 import SContactForm from "../../components/s-contact-form/s-contact-form";
+import Team2 from "../../components/Team2/team2";
 
 const Homepage4 = () => {
   const fixedSlider = React.useRef(null);
@@ -50,11 +51,12 @@ const Homepage4 = () => {
       <div ref={MainContent} className="main-content">
         <AboutUs2 />
         <Services lines />
-        <Portfolio grid={2} filterPosition="left" />
+        <Team2 />
+        {/* <Portfolio grid={2} filterPosition="left" /> */}
         <VideoWithTestimonials />
         <Clients2 theme="light" length={4} />
         <Team />
-        <Blogs4 />
+        {/* <Blogs4 /> */}
         <SContactForm />
         <Footer hideBGCOLOR />
       </div>

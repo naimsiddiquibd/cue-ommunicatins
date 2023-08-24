@@ -19,7 +19,7 @@ const Portfolio = ({ grid, filterPosition }) => {
                 Portfolio
               </h6>
               <h3 className="wow color-font">
-                Our Recent Web Design &amp; <br /> Some Past Projects.
+                Our Recent Works &amp; <br /> Some Past Projects
               </h3>
             </div>
           </div>
@@ -40,9 +40,11 @@ const Portfolio = ({ grid, filterPosition }) => {
               <span data-filter="*" className="active">
                 All
               </span>
-              <span data-filter=".brand">Branding</span>
-              <span data-filter=".web">Mobile App</span>
-              <span data-filter=".graphic">Creative</span>
+              <span data-filter=".kids-wear">KIDS WEAR</span>
+              <span data-filter=".web">LADIES</span>
+              <span data-filter=".graphic">MENS</span>
+              <span data-filter=".graphic">OUTERWEAR</span>
+              <span data-filter=".graphic">PYJAMA SETS</span>
             </div>
           </div>
 
@@ -80,6 +82,32 @@ const Portfolio = ({ grid, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
+              } items kids-wear wow fadeInUp`}
+              data-wow-delay=".4s"
+            >
+              <div className="item-img">
+                <Link href={`/project-details2/project-details2-dark`}>
+                  <a className="imago wow">
+                    <img src="/img/portfolio/portfolio/1/kids-wear-5.jpg" alt="image" />
+                    <div className="item-img-overlay"></div>
+                  </a>
+                </Link>
+              </div>
+              <div className="cont">
+                <h6>GIRLS LONG SLEEVE T-SHIRT</h6>
+                <span>
+                  <a href="#0">Design</a>, <a href="#0">WordPress</a>
+                </span>
+              </div>
+            </div>
+
+            <div
+              className={`${
+                grid === 3
+                  ? "col-lg-4 col-md-6"
+                  : grid === 2
+                  ? "col-md-6"
+                  : "col-12"
               } items web wow fadeInUp`}
               data-wow-delay=".4s"
             >
@@ -106,13 +134,13 @@ const Portfolio = ({ grid, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items brand wow fadeInUp`}
+              } items kids-wear wow fadeInUp`}
               data-wow-delay=".4s"
             >
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/portfolio/portfolio/1/3.jpg" alt="image" />
+                    <img src="/img/portfolio/portfolio/1/kids-wear-1.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -158,6 +186,32 @@ const Portfolio = ({ grid, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
+              } items kids-wear wow fadeInUp`}
+              data-wow-delay=".4s"
+            >
+              <div className="item-img">
+                <Link href={`/project-details2/project-details2-dark`}>
+                  <a className="imago wow">
+                    <img src="/img/portfolio/portfolio/1/kids-wear-3.jpg" alt="image" />
+                    <div className="item-img-overlay"></div>
+                  </a>
+                </Link>
+              </div>
+              <div className="cont">
+                <h6>Blast From The Past</h6>
+                <span>
+                  <a href="#0">Design</a>, <a href="#0">WordPress</a>
+                </span>
+              </div>
+            </div>
+
+            <div
+              className={`${
+                grid === 3
+                  ? "col-lg-4 col-md-6"
+                  : grid === 2
+                  ? "col-md-6"
+                  : "col-12"
               } items web wow fadeInUp`}
               data-wow-delay=".4s"
             >
@@ -184,13 +238,13 @@ const Portfolio = ({ grid, filterPosition }) => {
                   : grid === 2
                   ? "col-md-6"
                   : "col-12"
-              } items brand wow fadeInUp`}
+              } items kids-wear wow fadeInUp`}
               data-wow-delay=".4s"
             >
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/portfolio/portfolio/1/6.jpg" alt="image" />
+                    <img src="/img/portfolio/portfolio/1/kids-wear-2.jpg" alt="image" />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>

@@ -5,24 +5,24 @@
   "image3": "/img/intro/2.jpg",
   "smallTitle": "About Us",
   "title": { "first": "Denim Dreams Come True: ", "second": "Experience Perfection with Jeansbest" },
-  "content": "Welcome to Jeansbest, where your denim dreams come to life. We're here to make your search for the perfect pair of jeans an unforgettable experience. Our collection is a carefully curated selection of denim masterpieces that combine form, function, and flair. From classic blues to vibrant hues, we've got a pair for every mood and occasion. Embrace the ultimate in comfort, style, and quality craftsmanship that only Jeansbest can offer",
+  "content": "At JEANS BEST (BD) we are a premier fashion Wear supplier known for our commitment to quality, innovation, and sustainability. With a vast range of local and international fabrics sources, we cater to diverse fashion needs. Our team's passion for fashion craftsmanship ensures that our clients receive unparalleled products and service. Partner with us to experience the timeless essence of fashion wear in every creation.",
   "features": [
     {
       "id": 1,
-      "icon": "gleam",
-      "name": { "first": "Pixel", "second": "Perfect" },
+      "icon": "vector",
+      "name": { "first": "Research &", "second": "Design" },
       "wowDelay": ".3s"
     },
     {
       "id": 2,
-      "icon": "paint-bucket",
-      "name": { "first": "Creative", "second": "Design" },
+      "icon": "shopbag",
+      "name": { "first": "Develop &", "second": "Production" },
       "wowDelay": ".5s"
     },
     {
       "id": 3,
-      "icon": "medal",
-      "name": { "first": "Heigh", "second": "Perfomance" },
+      "icon": "graph1",
+      "name": { "first": "Quality", "second": "Control" },
       "wowDelay": ".8s"
     }
   ]
