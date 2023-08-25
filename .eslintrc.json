@@ -1,13 +1,6 @@
 {
+  "plugins": ["react"],
   "rules": {
-    "react/no-unknown-property": [
-      2,
-      {
-        "ignore": [
-          "jsx"
-        ]
-      }
-    ]
-  },
-  "parser": "babel-eslint"
+    "react/no-unknown-property": "error"
+  }
 }
