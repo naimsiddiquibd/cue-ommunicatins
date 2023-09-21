@@ -127,7 +127,7 @@ const Footer = ({ hideBGCOLOR }) => {
                     href="/"
                     
                   >
-                    <a target="_blank">JeansBest</a>
+                    <a target="_blank">CUE Communications</a>
                   </Link>
                   .
                 </p>

@@ -73,7 +73,7 @@ const VideoWithTestimonials = () => {
                 >
                   <div className="item">
                     <p>
-                    Jeansbest transformed my denim dreams into reality with their impeccable tailoring and sustainable options!
+                    CUE Communications transformed my denim dreams into reality with their impeccable tailoring and sustainable options!
                     </p>
                     <div className="info">
                       <div className="img">
@@ -93,7 +93,7 @@ const VideoWithTestimonials = () => {
                   </div>
                   <div className="item">
                     <p>
-                    I have never felt more comfortable and stylish in jeans until I tried Jeansbest custom fit service - truly a game-changer!
+                    I have never felt more comfortable and stylish in jeans until I tried CUE Communications custom fit service - truly a game-changer!
                     </p>
                     <div className="info">
                       <div className="img">
@@ -113,7 +113,7 @@ const VideoWithTestimonials = () => {
                   </div>
                   <div className="item">
                     <p>
-                    Kudos to Jeansbest for their innovative wash techniques; my jeans now have a unique story to tell!
+                    Kudos to CUE Communications for their innovative wash techniques; my jeans now have a unique story to tell!
                     </p>
                     <div className="info">
                       <div className="img">
