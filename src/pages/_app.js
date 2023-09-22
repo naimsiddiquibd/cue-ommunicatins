@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>JeansBeast: Where Denim Dreams Come to Life</title>
+        <title>Cue Communication: Elevate Your Space with Inspired Interior Design</title>
         <link rel="icon" href="/img/favicon.ico" />
       </Head>
       <Cursor />
