@@ -12,7 +12,7 @@ const Services2 = () => {
                 Best Features
               </h6>
               <h3 className="wow color-font">
-                We are a new digital product development agency
+              We are a creative interior design firm dedicated to transforming spaces
               </h3>
             </div>
           </div>
@@ -21,30 +21,27 @@ const Services2 = () => {
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".3s">
             <div className="step-item xtop">
               <span className="icon pe-7s-gleam"></span>
-              <h6>Digital Marketing</h6>
+              <h6>Furniture Design</h6>
               <p>
-                Tempore corrupti temporibus fuga earum asperiores fugit
-                laudantium.
+              Crafting unique pieces tailored to your vision.
               </p>
             </div>
           </div>
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".6s">
             <div className="step-item xcolor">
               <span className="icon pe-7s-phone"></span>
-              <h6>Web &amp; App Development</h6>
+              <h6>Color Consultation</h6>
               <p>
-                Tempore corrupti temporibus fuga earum asperiores fugit
-                laudantium.
+              Expert guidance for the perfect color palette
               </p>
             </div>
           </div>
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".9s">
             <div className="step-item xbottom">
               <span className="icon pe-7s-magic-wand"></span>
-              <h6>Graphic Design</h6>
+              <h6>Space Planning</h6>
               <p>
-                Tempore corrupti temporibus fuga earum asperiores fugit
-                laudantium.
+              Optimizing layouts for functional and stylish interiors.
               </p>
             </div>
           </div>

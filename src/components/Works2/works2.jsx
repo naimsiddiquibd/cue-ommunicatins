@@ -109,14 +109,14 @@ const Works2 = ({ sliderRef }) => {
                               <Link
                                 href={`/works2/works2-dark`}
                               >
-                                <a>art &amp; illustration</a>
+                                <a>Interior Design </a>
                               </Link>
                             </h6>
                             <h4>
                               <Link
                                 href={`/project-details2/project-details2-dark`}
                               >
-                                <a>Innovation and Crafts.</a>
+                                <a>Custom Furniture Design</a>
                               </Link>
                             </h4>
                           </div>
@@ -138,14 +138,14 @@ const Works2 = ({ sliderRef }) => {
                               <Link
                                 href={`/works2/works2-dark`}
                               >
-                                <a>art &amp; illustration</a>
+                                <a>Interior Design</a>
                               </Link>
                             </h6>
                             <h4>
                               <Link
                                 href={`/project-details2/project-details2-dark`}
                               >
-                                <a>Inspiring new space.</a>
+                                <a>Color Consultation</a>
                               </Link>
                             </h4>
                           </div>
@@ -167,14 +167,14 @@ const Works2 = ({ sliderRef }) => {
                               <Link
                                 href={`/works2/works2-dark`}
                               >
-                                <a>art &amp; illustration</a>
+                                <a>Interior Design</a>
                               </Link>
                             </h6>
                             <h4>
                               <Link
                                 href={`/project-details2/project-details2-dark`}
                               >
-                                <a>Natural plus modern.</a>
+                                <a>Space Planning</a>
                               </Link>
                             </h4>
                           </div>
@@ -196,14 +196,14 @@ const Works2 = ({ sliderRef }) => {
                               <Link
                                 href={`/works2/works2-dark`}
                               >
-                                <a>art &amp; illustration</a>
+                                <a>Interior Design</a>
                               </Link>
                             </h6>
                             <h4>
                               <Link
                                 href={`/project-details2/project-details2-dark`}
                               >
-                                <a>Innovation and Crafts.</a>
+                                <a>Home Styling and Decor</a>
                               </Link>
                             </h4>
                           </div>
@@ -225,7 +225,7 @@ const Works2 = ({ sliderRef }) => {
                               <Link
                                 href={`/works2/works2-dark`}
                               >
-                                <a>art &amp; illustration</a>
+                                <a>Interior Design</a>
                               </Link>
                             </h6>
                             <h4>

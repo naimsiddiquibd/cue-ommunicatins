@@ -14,12 +14,12 @@ const Intro3 = () => {
           <div className="col-lg-7 valign">
             <div className="cont">
               <div className="sub-title mb-5">
-                <h6>Digital Consulting Agency</h6>
+                <h6>Elevate your space beautifully</h6>
               </div>
-              <h1 className="mb-10 fw-600">Unique Business Consulting.</h1>
+              <h1 className="mb-10 fw-600">Designing Dreams, Crafting Comfort</h1>
               <p>
-                We help our clients succeed by creating brand identities,
-                <br /> digital experiences, and print materials.
+              Transforming your vision into stunning, functional
+                <br /> spaces that reflect your personality and enhance your lifestyle
               </p>
               <ul>
                 <li>
@@ -29,10 +29,9 @@ const Intro3 = () => {
                     </span>
                   </div>
                   <div className="cont">
-                    <h6>Branding</h6>
+                    <h6>Renovating</h6>
                     <p>
-                      It is a long established fact that a reader will be
-                      distracted.
+                    Enhancing your space through expert craftsmanship, innovative designs, and tailored solutions for lasting beauty and functionality.
                     </p>
                   </div>
                 </li>
@@ -43,10 +42,9 @@ const Intro3 = () => {
                     </span>
                   </div>
                   <div className="cont">
-                    <h6>Marketing</h6>
+                    <h6>Decorating</h6>
                     <p>
-                      It is a long established fact that a reader will be
-                      distracted.
+                    Infusing style, personality, and warmth into your interiors with impeccable taste and a keen eye for detail.
                     </p>
                   </div>
                 </li>

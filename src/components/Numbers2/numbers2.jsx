@@ -68,7 +68,7 @@ const Numbers2 = () => {
                 </h3>
                 <Split>
                   <p className="wow txt words chars splitting" data-splitting>
-                    Files Downloaded
+                  Timeless Designs
                   </p>
                 </Split>
               </div>
@@ -88,7 +88,7 @@ const Numbers2 = () => {
                 </h3>
                 <Split>
                   <p className="wow txt words chars splitting" data-splitting>
-                    Award Win
+                  Effortless Elegance
                   </p>
                 </Split>
               </div>
