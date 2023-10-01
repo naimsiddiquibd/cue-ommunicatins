@@ -39,7 +39,7 @@ const Contact = () => {
         <ContactForm />
         <div className="map" id="ieatmaps">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6010.126439563913!2d-100.75478744312291!3d41.13314584948978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2z2KfZhNmI2YTYp9mK2KfYqiDYp9mE2YXYqtit2K_YqQ!5e0!3m2!1sar!2seg!4v1644259110384!5m2!1sar!2seg"
+            src="https://www.google.com/maps/place/Mega+Rose+Dale/@23.7430872,90.3699819,17z/data=!4m14!1m7!3m6!1s0x3755bf7620b12b3b:0xccc05bfe94f29037!2sMega+Rose+Dale!8m2!3d23.7430823!4d90.3725568!16s%2Fg%2F11rvcspqsc!3m5!1s0x3755bf7620b12b3b:0xccc05bfe94f29037!8m2!3d23.7430823!4d90.3725568!16s%2Fg%2F11rvcspqsc?entry=ttu"
             loading="lazy"
           ></iframe>
         </div>

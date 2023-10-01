@@ -112,16 +112,16 @@ const ContactForm = () => {
                 </h6>
               </div>
               <div className="social mt-50">
-                <a href="#0" className="icon">
+                <a href="https://www.facebook.com/cuecommbd/" className="icon">
                   <i className="fab fa-facebook-f"></i>
                 </a>
-                <a href="#0" className="icon">
+                <a href="https://twitter.com/cuecommbd" className="icon">
                   <i className="fab fa-twitter"></i>
                 </a>
-                <a href="#0" className="icon">
+                <a href="https://www.instagram.com/cuecommbd" className="icon">
                   <i className="fab fa-pinterest"></i>
                 </a>
-                <a href="#0" className="icon">
+                <a href="https://www.youtube.com/cuecommbd" className="icon">
                   <i className="fab fa-behance"></i>
                 </a>
               </div>
