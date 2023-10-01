@@ -55,7 +55,7 @@ const Navbar = ({ lr, nr, theme }) => {
               </Link>
             </li>
             <li className="nav-item dropdown">
-            <Link href={`/contact/contact-light`}>
+            <Link href={`/services/services`}>
                 <a className="nav-link">SERVICES</a>
               </Link>
             </li>

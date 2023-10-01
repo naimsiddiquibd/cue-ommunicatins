@@ -1,13 +1,13 @@
 [
     {
         "id": 1,
-        "icon": "pe-7s-scissors",
+        "icon": "pe-7s-home",
         "title": "Interior Design",
         "content": "Transforming spaces with creative vision, balancing aesthetics and functionality to create inviting and harmonious environments that reflect your unique style."
     },
     {
         "id": 2,
-        "icon": "pe-7s-vector",
+        "icon": "pe-7s-albums",
         "title": "Event Management",
         "content": "Expertly planning and executing events, from concept to completion, ensuring seamless experiences that leave lasting impressions and memories."
     },
@@ -19,7 +19,7 @@
     },
     {
         "id": 4,
-        "icon": "pe-7s-rocket",
+        "icon": "pe-7s-film",
         "title": "Multimedia Production",
         "content": "Harnessing the power of multimedia to tell captivating stories, utilizing video, audio, and visuals to convey messages and evoke emotions."
     },
@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "icon": "pe-7s-rocket",
+        "icon": "pe-7s-print",
         "title": "Printing & Designing",
         "content": "Combining design expertise with state-of-the-art printing technology to produce high-quality, visually appealing materials that leave a lasting impression on your audience."
     }

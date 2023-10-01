@@ -20,7 +20,7 @@ const Services2 = () => {
         <div className="row">
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".3s">
             <div className="step-item xtop">
-              <span className="icon pe-7s-gleam"></span>
+              <span className="icon pe-7s-home"></span>
               <h6>Interior Design</h6>
               <p>
               Transforming spaces with creative flair
@@ -29,7 +29,7 @@ const Services2 = () => {
           </div>
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".6s">
             <div className="step-item xtop">
-              <span className="icon pe-7s-phone"></span>
+              <span className="icon pe-7s-albums"></span>
               <h6>Event Management</h6>
               <p>
               Planning and executing memorable events.
@@ -38,7 +38,7 @@ const Services2 = () => {
           </div>
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".9s">
             <div className="step-item xtop">
-              <span className="icon pe-7s-magic-wand"></span>
+              <span className="icon pe-7s-paint-bucket"></span>
               <h6>Advertisement</h6>
               <p>
               Captivating audiences with persuasive content
@@ -47,7 +47,7 @@ const Services2 = () => {
           </div>
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".9s">
             <div className="step-item xtop">
-              <span className="icon pe-7s-magic-wand"></span>
+              <span className="icon pe-7s-film"></span>
               <h6>Multimedia Production</h6>
               <p>
               CCreating engaging digital content experiences
@@ -56,7 +56,7 @@ const Services2 = () => {
           </div>
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".9s">
             <div className="step-item xtop">
-              <span className="icon pe-7s-magic-wand"></span>
+              <span className="icon pe-7s-rocket"></span>
               <h6>Marketing and Promotion</h6>
               <p>
               Promoting brands for maximum impact
@@ -65,7 +65,7 @@ const Services2 = () => {
           </div>
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".9s">
             <div className="step-item xtop">
-              <span className="icon pe-7s-magic-wand"></span>
+              <span className="icon pe-7s-print"></span>
               <h6>Printing & Designing</h6>
               <p>
               Crafting visual communication solutions efficiently

@@ -41,7 +41,7 @@ const Footer = ({ hideBGCOLOR }) => {
           <div className="col-lg-4">
             <div className="item md-mb50">
               <div className="title">
-                <h5>Recent News</h5>
+                <h5>Contact Us (Global)</h5>
               </div>
               <ul>
 
@@ -69,17 +69,17 @@ const Footer = ({ hideBGCOLOR }) => {
                 <img src={appData.lightLogo} alt="" />
               </div>
               <div className="social">
-                <a href="#0">
+                <a href="https://www.facebook.com/cuecommbd/">
                   <i className="fab fa-facebook-f"></i>
                 </a>
-                <a href="#0">
+                <a href="https://twitter.com/cuecommbd">
                   <i className="fab fa-twitter"></i>
                 </a>
-                <a href="#0">
+                <a href="https://www.instagram.com/cuecommbd">
                   <i className="fab fa-instagram"></i>
                 </a>
                 <a href="#0">
-                  <i className="fab fa-youtube"></i>
+                  <i className="https://www.youtube.com/cuecommbd"></i>
                 </a>
               </div>
               <div className="copy-right">

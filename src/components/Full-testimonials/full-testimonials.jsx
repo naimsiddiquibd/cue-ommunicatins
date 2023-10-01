@@ -110,10 +110,10 @@ class FullTestimonials extends React.Component {
                           <img src="/img/clients/1.jpg" alt="" />
                         </div>
                         <h6 className="author-name color-font">
-                          Alex Regelman
+                          Moniruzzam Mian
                         </h6>
                         <span className="author-details">
-                          Co-founder, Colabrio
+                          Happy Client
                         </span>
                       </div>
                     </div>
@@ -131,10 +131,10 @@ class FullTestimonials extends React.Component {
                           <img src="/img/clients/1.jpg" alt="" />
                         </div>
                         <h6 className="author-name color-font">
-                          Alex Regelman
+                          Moniruzzam Mian
                         </h6>
                         <span className="author-details">
-                          Co-founder, Colabrio
+                          Happy Client
                         </span>
                       </div>
                     </div>
@@ -152,10 +152,10 @@ class FullTestimonials extends React.Component {
                           <img src="/img/clients/1.jpg" alt="" />
                         </div>
                         <h6 className="author-name color-font">
-                          Alex Regelman
+                          Moniruzzam Mian
                         </h6>
                         <span className="author-details">
-                          Co-founder, Colabrio
+                          Happy Client
                         </span>
                       </div>
                     </div>
@@ -173,10 +173,10 @@ class FullTestimonials extends React.Component {
                           <img src="/img/clients/1.jpg" alt="" />
                         </div>
                         <h6 className="author-name color-font">
-                          Alex Regelman
+                          Moniruzzam Mian
                         </h6>
                         <span className="author-details">
-                          Co-founder, Colabrio
+                          Happy Client
                         </span>
                       </div>
                     </div>

@@ -83,9 +83,9 @@ const VideoWithTestimonials = () => {
                       </div>
                       <div className="cont">
                         <div className="author">
-                          <h6 className="author-name ">Alex Regelman</h6>
+                          <h6 className="author-name ">Moniruzzam Mian</h6>
                           <span className="author-details">
-                            Co-founder, Colabrio
+                            Happy Client
                           </span>
                         </div>
                       </div>
@@ -103,9 +103,9 @@ const VideoWithTestimonials = () => {
                       </div>
                       <div className="cont">
                         <div className="author">
-                          <h6 className="author-name ">John Smith</h6>
+                          <h6 className="author-name ">Abdullah Al Mamun</h6>
                           <span className="author-details">
-                            Founder, Maxilabo
+                            Happy Client
                           </span>
                         </div>
                       </div>
@@ -125,7 +125,7 @@ const VideoWithTestimonials = () => {
                         <div className="author">
                           <h6 className="author-name ">Shahriar Kabir</h6>
                           <span className="author-details">
-                            Branch Manager, KFC
+                            Happy Client
                           </span>
                         </div>
                       </div>

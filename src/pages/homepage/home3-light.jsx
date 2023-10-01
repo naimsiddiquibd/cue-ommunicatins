@@ -37,7 +37,7 @@ const Homepage3 = () => {
       <Services2 style="4item" />
       <Works2 />
       <Numbers2 />
-      <FullTestimonials withCOLOR />
+      {/* <FullTestimonials withCOLOR /> */}
       <Team />
       <Clients />
 

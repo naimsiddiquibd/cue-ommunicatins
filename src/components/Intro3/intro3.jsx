@@ -29,9 +29,9 @@ const Intro3 = () => {
                     </span>
                   </div>
                   <div className="cont">
-                    <h6>Renovating</h6>
+                    <h6>Event Management</h6>
                     <p>
-                    Enhancing your space through expert craftsmanship, innovative designs, and tailored solutions for lasting beauty and functionality.
+                    Cue Communication excels in event management, delivering seamless experiences with precision, creativity, and unmatched attention to detail.
                     </p>
                   </div>
                 </li>
@@ -42,9 +42,9 @@ const Intro3 = () => {
                     </span>
                   </div>
                   <div className="cont">
-                    <h6>Decorating</h6>
+                    <h6>Interior</h6>
                     <p>
-                    Infusing style, personality, and warmth into your interiors with impeccable taste and a keen eye for detail.
+                    Cue Communication: Elevating spaces through innovative interior design, blending creativity and functionality to transform your environment beautifully.
                     </p>
                   </div>
                 </li>
