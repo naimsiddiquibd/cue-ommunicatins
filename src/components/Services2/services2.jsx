@@ -12,7 +12,7 @@ const Services2 = () => {
                 Best Features
               </h6>
               <h3 className="wow color-font">
-              We are a creative interior design firm dedicated to transforming spaces
+              We Are Event Experts, Creating Memorable Experiences
               </h3>
             </div>
           </div>
@@ -21,33 +21,60 @@ const Services2 = () => {
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".3s">
             <div className="step-item xtop">
               <span className="icon pe-7s-gleam"></span>
-              <h6>Furniture Design</h6>
+              <h6>Interior Design</h6>
               <p>
-              Crafting unique pieces tailored to your vision.
+              Transforming spaces with creative flair
               </p>
             </div>
           </div>
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".6s">
-            <div className="step-item xcolor">
+            <div className="step-item xtop">
               <span className="icon pe-7s-phone"></span>
-              <h6>Color Consultation</h6>
+              <h6>Event Management</h6>
               <p>
-              Expert guidance for the perfect color palette
+              Planning and executing memorable events.
               </p>
             </div>
           </div>
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".9s">
-            <div className="step-item xbottom">
+            <div className="step-item xtop">
               <span className="icon pe-7s-magic-wand"></span>
-              <h6>Space Planning</h6>
+              <h6>Advertisement</h6>
               <p>
-              Optimizing layouts for functional and stylish interiors.
+              Captivating audiences with persuasive content
+              </p>
+            </div>
+          </div>
+          <div className="col-lg-4 wow fadeInUp" data-wow-delay=".9s">
+            <div className="step-item xtop">
+              <span className="icon pe-7s-magic-wand"></span>
+              <h6>Multimedia Production</h6>
+              <p>
+              CCreating engaging digital content experiences
+              </p>
+            </div>
+          </div>
+          <div className="col-lg-4 wow fadeInUp" data-wow-delay=".9s">
+            <div className="step-item xtop">
+              <span className="icon pe-7s-magic-wand"></span>
+              <h6>Marketing and Promotion</h6>
+              <p>
+              Promoting brands for maximum impact
+              </p>
+            </div>
+          </div>
+          <div className="col-lg-4 wow fadeInUp" data-wow-delay=".9s">
+            <div className="step-item xtop">
+              <span className="icon pe-7s-magic-wand"></span>
+              <h6>Printing & Designing</h6>
+              <p>
+              Crafting visual communication solutions efficiently
               </p>
             </div>
           </div>
         </div>
         <div className="smore">
-          <Link href="/about/about-dark">
+          <Link href="/about/about-lite">
             <a>Discover More</a>
           </Link>
           <i className="fas fa-long-arrow-alt-right"></i>

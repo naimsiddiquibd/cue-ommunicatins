@@ -46,22 +46,22 @@ const Navbar = ({ lr, nr, theme }) => {
           <ul className="navbar-nav ml-auto">
             <li className="nav-item dropdown">
             <Link href={`/`}>
-                <a className="nav-link">Home</a>
+                <a className="nav-link">HOME</a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link href={`/about/about-dark`}>
-                <a className="nav-link">About</a>
+              <Link href={`/about/about-light`}>
+                <a className="nav-link">ABOUT</a>
               </Link>
             </li>
             <li className="nav-item dropdown">
-            <Link href={`/contact/contact-dark`}>
-                <a className="nav-link">Produtcs</a>
+            <Link href={`/contact/contact-light`}>
+                <a className="nav-link">SERVICES</a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link href={`/contact/contact-dark`}>
-                <a className="nav-link">Contact</a>
+              <Link href={`/contact/contact-light`}>
+                <a className="nav-link">CONTACT</a>
               </Link>
             </li>
           </ul>

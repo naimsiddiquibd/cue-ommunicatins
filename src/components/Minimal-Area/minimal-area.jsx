@@ -25,10 +25,9 @@ const MinimalArea = () => {
           </div>
           <div className="col-lg-6 valign">
             <div className="content pt-0">
-              <h4 className="wow color-font">About us.</h4>
+              <h4 className="wow color-font">Who We Are?</h4>
               <p className="wow txt" data-splitting>
-                Our creative Ad agency is ranked among the finest in the US. We
-                cultivate smart ideas for start-ups and seasoned players.
+              We excel in event management, offering expertise in Trade Fairs, Cultural Events, Film Production, PR, Design, and more.
               </p>
               <ul className="feat">
                 <li className="wow fadeInUp" data-wow-delay=".2s">
@@ -36,7 +35,7 @@ const MinimalArea = () => {
                     <span>1</span> Our Mission
                   </h6>
                   <p>
-                    luctus massa ipsum at tempus eleifend congue lectus bibendum
+                  To create unforgettable experiences and lasting memories through exceptional event management.
                   </p>
                 </li>
                 <li className="wow fadeInUp" data-wow-delay=".4s">
@@ -44,7 +43,7 @@ const MinimalArea = () => {
                     <span>2</span> Our Goals
                   </h6>
                   <p>
-                    luctus massa ipsum at tempus eleifend congue lectus bibendum
+                  To exceed client expectations, drive innovation, and set industry standards for event excellence.
                   </p>
                 </li>
                 <li className="wow fadeInUp" data-wow-delay=".6s">
@@ -52,7 +51,7 @@ const MinimalArea = () => {
                     <span>3</span> Why Us?
                   </h6>
                   <p>
-                    luctus massa ipsum at tempus eleifend congue lectus bibendum
+                  Choose us for a dedicated team, unwavering commitment to quality, and a track record of event success.
                   </p>
                 </li>
               </ul>

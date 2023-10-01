@@ -73,7 +73,7 @@ const VideoWithTestimonials = () => {
                 >
                   <div className="item">
                     <p>
-                    CUE Communications transformed my denim dreams into reality with their impeccable tailoring and sustainable options!
+                    CUE Communications transformed my Event dreams into reality with their impeccable tailoring and sustainable options!
                     </p>
                     <div className="info">
                       <div className="img">

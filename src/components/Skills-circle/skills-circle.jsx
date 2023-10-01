@@ -54,8 +54,8 @@ const SkillsCircle = ({ from, theme }) => {
                       />
                     </div>
                     <div className="cont">
-                      <span>App</span>
-                      <h6>Development</h6>
+                      <span>Interior</span>
+                      <h6>Research & Design</h6>
                     </div>
                   </div>
                 </div>

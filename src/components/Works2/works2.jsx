@@ -36,7 +36,7 @@ const Works2 = ({ sliderRef }) => {
                   Latest Work
                 </h6>
                 <h3 className="wow color-font">
-                  Our Recent Web Design &amp; <br /> Some Past Projects.
+                  Our Recent Work &amp; <br /> Some Past Projects.
                 </h3>
               </div>
             </div>

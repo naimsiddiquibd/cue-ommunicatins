@@ -14,12 +14,12 @@ const Intro3 = () => {
           <div className="col-lg-7 valign">
             <div className="cont">
               <div className="sub-title mb-5">
-                <h6>Elevate your space beautifully</h6>
+                <h6>Efficient event coordination platform</h6>
               </div>
-              <h1 className="mb-10 fw-600">Designing Dreams, Crafting Comfort</h1>
+              <h1 className="mb-10 fw-600">Simplify Event Organization Process</h1>
               <p>
-              Transforming your vision into stunning, functional
-                <br /> spaces that reflect your personality and enhance your lifestyle
+              Event management website streamlines planning, registration, communication,
+                <br /> and coordination, ensuring seamless and successful events for clients.
               </p>
               <ul>
                 <li>

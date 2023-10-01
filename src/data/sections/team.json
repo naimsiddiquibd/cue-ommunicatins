@@ -3,26 +3,26 @@
     {
       "id": 1,
       "image": "/img/team/1.jpg",
-      "title": "Stephanie Lawrence",
-      "sub": "CEO, Colabrio Media"
+      "title": "Anik Mahmud",
+      "sub": "CEO, CUE-Communications"
     },
     {
       "id": 2,
       "image": "/img/team/2.jpg",
-      "title": "Alex Regelman",
-      "sub": "CEO, Colabrio Media"
+      "title": "Dip Biswas",
+      "sub": "Creative Director, CUE-Communications"
     },
     {
       "id": 3,
       "image": "/img/team/3.jpg",
-      "title": "Stacey Stamper",
-      "sub": "CEO, Colabrio Media"
+      "title": "Abdullah Al Noman",
+      "sub": "CTO, CUE-Communications"
     },
     {
       "id": 4,
       "image": "/img/team/4.jpg",
-      "title": "Stephanie Lawrence",
-      "sub": "CEO, Colabrio Media"
+      "title": "Pavel Rahman",
+      "sub": "Architect, CUE-Communications"
     }
   ],
   "skills": [

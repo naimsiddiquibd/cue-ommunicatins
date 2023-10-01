@@ -9,6 +9,7 @@ import Blogs3 from "../../components/blogs/Blogs3/blogs3";
 import Services2 from "../../components/Services2/services2";
 import Works2 from "../../components/Works2/works2";
 import Numbers2 from "../../components/Numbers2/numbers2";
+import Clients from "../../components/Clients/clients";
 
 const Homepage3 = () => {
   const navbarRef = React.useRef(null);
@@ -38,7 +39,8 @@ const Homepage3 = () => {
       <Numbers2 />
       <FullTestimonials withCOLOR />
       <Team />
-      <Blogs3 />
+      <Clients />
+
       <Footer hideBGCOLOR />
     </LightTheme>
   );

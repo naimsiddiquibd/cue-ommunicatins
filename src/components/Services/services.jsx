@@ -16,7 +16,7 @@ const Services = ({ style, lines }) => {
                 Best Features
               </h6>
               <h3 className="wow color-font">
-              Denim Elevated: Redefining Your Jeans Experience!
+              Crafting unforgettable moments, every event
               </h3>
             </div>
           </div>
