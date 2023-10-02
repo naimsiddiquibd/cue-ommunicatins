@@ -14,12 +14,12 @@ const Intro3 = () => {
           <div className="col-lg-7 valign">
             <div className="cont">
               <div className="sub-title mb-5">
-                <h6>Efficient event coordination platform</h6>
+                <h6>Crafting Memorable Moments</h6>
               </div>
-              <h1 className="mb-10 fw-600">Simplify Event Organization Process</h1>
+              <h1 className="mb-10 fw-600">Step into the Spotlight of Seamless Events with Cue Communication.</h1>
               <p>
-              Event management website streamlines planning, registration, communication,
-                <br /> and coordination, ensuring seamless and successful events for clients.
+              Elevate Your Events with Unmatched Precision and Creativity
+                <br /> – Cue Communication, Your Event Partner Extraordinaire!
               </p>
               <ul>
                 <li>
